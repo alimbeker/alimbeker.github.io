@@ -16,14 +16,6 @@ Diary for daily with notification(reminder) and deadline. Reminder is a card in 
 
 ### Technologies : Android SDK , Kotlin, Xml, Room, MVVM, Android Jetpack
 
-<p align="center">
-<img src="https://play-lh.googleusercontent.com/t9Se2dF5tbscBVw736HmePYp6Y--h8mAHERvOi2CLg71T30BkzKQi9RaqqxEazWLP9s=w2560-h1440-rw" width="250" height = "550"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-
-
-
 # Weather Application
 
 It is a weather app that uses Retrofit with rest api, MVVM architecture, android jetpack, dagger hilt, etc. It takes a city name and by that name it gives the weather data of the city.
@@ -32,14 +24,10 @@ It is a weather app that uses Retrofit with rest api, MVVM architecture, android
 
 ### Technologies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Room, Android SDK , Xml
 
-![Note app feature 1 0](./images/notes_app.gif)
-
-
-
 
 
 # Stry Application (Educational Application)
-<a href='https://play.google.com/store/apps/details?id=alejandro.ibague.studyapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
 
 This application is still in development and I was on the contract-based android application where I make quizzes, statistics, overlay windows, and fix some errors in different sections of the app.
