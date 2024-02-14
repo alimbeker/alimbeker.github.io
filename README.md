@@ -14,7 +14,7 @@ Diary for daily with notification(reminder) and deadline. Reminder is a card in 
 
 <a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
-### Technolgies : Android SDK , Kotlin, Xml, Room, MVVM, Android Jetpack
+### Technologies : Android SDK , Kotlin, Xml, Room, MVVM, Android Jetpack
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/t9Se2dF5tbscBVw736HmePYp6Y--h8mAHERvOi2CLg71T30BkzKQi9RaqqxEazWLP9s=w2560-h1440-rw" width="250" height = "550"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,7 +30,7 @@ It is a weather app that uses Retrofit with rest api, MVVM architecture, android
 
 <a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
-### Technolgies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Room, Android SDK , Xml
+### Technologies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Room, Android SDK , Xml
 
 ![Note app feature 1 0](./images/notes_app.gif)
 
