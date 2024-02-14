@@ -10,7 +10,7 @@ Curretnly Working on the project for the android project. start working on some 
 
 Diary for daily with notification(reminder) and deadline. Reminder is a card in a special sheet (category). When you add a reminder, you have the option to select a repeat reminder (AlarmReceiver), and select a special category for the card.
 
-<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://cdn-icons-png.flaticon.com/512/25/25231.png' height='80px'/></a>
+<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://assets.stickpng.com/images/629b7adc7c5cd817694c3231.png' height='80px'/></a>
 
 ### Technolgies : Android SDK , Kotlin, Xml, Room, MVVM, Android Jetpack
 
@@ -23,7 +23,7 @@ Diary for daily with notification(reminder) and deadline. Reminder is a card in 
 
 It is a weather app that uses Retrofit with rest api, MVVM architecture, android jetpack, dagger hilt, etc. It takes a city name and by that name it gives the weather data of the city.
 
-<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://cdn-icons-png.flaticon.com/512/25/25231.png' height='80px'/></a>
+<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://assets.stickpng.com/images/629b7adc7c5cd817694c3231.png' height='80px'/></a>
 
 ### Technolgies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Room, Android SDK , Xml
 
