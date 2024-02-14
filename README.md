@@ -10,7 +10,8 @@ Curretnly Working on the project for the android project. start working on some 
 
 Diary for daily with notification(reminder) and deadline. Reminder is a card in a special sheet (category). When you add a reminder, you have the option to select a repeat reminder (AlarmReceiver), and select a special category for the card.
 
-<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
+<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px' style='color: black;'/></a>
+
 
 ### Technolgies : Android SDK , Kotlin, Xml, Room, MVVM, Android Jetpack
 
