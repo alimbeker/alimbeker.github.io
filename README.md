@@ -2,7 +2,7 @@
 
 ### Hello, I am an android developer, always follow best practices for android application and I am always ready to learn new technologies, methods, and principle as per the project requirements. Keep Learning and Keep Sharing
 
-<a href="mailto:amiralimbekerov0110@gmail.com"><img src="https://img.shields.io/badge/Email-Amir-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/amir-alimbekerov/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Amir-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
+<a href="mailto:amiralimbekerov0110@gmail.com"><img src="https://img.shields.io/badge/Email-Amir-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/amir-alimbekerov/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Amir-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/asura.aka/" target="_blank"><img src="https://img.shields.io/badge/instagram-asura.aka-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # Gojek/GOPAY Android
 Curretnly Working on the project for the android project. start working on some new feature
