@@ -6,30 +6,26 @@
 
 # Gojek/GOPAY Android
 Curretnly Working on the project for the android project. start working on some new feature
-# Decathlon Application
+# GoodLook Application
 
-Now enjoy and experience the entire offering of Decathlon India’s 70+ sports and over 5,000 products by using the Decathlon mobile application!
-Choose from an array of gear and equipment that's designed to get you play-ready.
+Diary for daily with notification(reminder) and deadline. Reminder is a card in a special sheet (category). When you add a reminder, you have the option to select a repeat reminder (AlarmReceiver), and select a special category for the card.
 
-<a href='https://play.google.com/store/apps/details?id=com.evamall.evacustomer&hl=en_IN&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://cdn-icons-png.flaticon.com/512/25/25231.png' height='80px'/></a>
 
-
-
-### Technolgies : Android SDK , Kotlin, Xml, Firebase, RxJava, Android Jetpack Libraries.
+### Technolgies : Android SDK , Kotlin, Xml, Room, MVVM, Android Jetpack
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/t9Se2dF5tbscBVw736HmePYp6Y--h8mAHERvOi2CLg71T30BkzKQi9RaqqxEazWLP9s=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
-# Notes Application
+# Weather Application
 
-It's a simple notes application which uses neuormphishm user interface, MVVM architecture, android jetpack, dagger etc. It's taken the notes and save it in the room database
-and user can view , edit and delete the notes from the list.
+It is a weather app that uses Retrofit with rest api, MVVM architecture, android jetpack, dagger hilt, etc. It takes a city name and by that name it gives the weather data of the city.
 
-<a href='https://play.google.com/store/apps/details?id=com.jackandphantom.mytodo'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://cdn-icons-png.flaticon.com/512/25/25231.png' height='80px'/></a>
 
-### Technolgies : MVVM, Dagger2, Android Jepack, Room, Android SDK , Java, Xml
+### Technolgies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Room, Android SDK , Xml
 
 ![Note app feature 1 0](./images/notes_app.gif)
 
