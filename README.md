@@ -22,6 +22,9 @@ Diary for daily with notification(reminder) and deadline. Reminder is a card in 
 </p>
 
 
+
+
+
 # Weather Application
 
 It is a weather app that uses Retrofit with rest api, MVVM architecture, android jetpack, dagger hilt, etc. It takes a city name and by that name it gives the weather data of the city.
@@ -31,6 +34,9 @@ It is a weather app that uses Retrofit with rest api, MVVM architecture, android
 ### Technolgies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Room, Android SDK , Xml
 
 ![Note app feature 1 0](./images/notes_app.gif)
+
+
+
 
 
 # Stry Application (Educational Application)
