@@ -4,13 +4,15 @@
 
 <a href="mailto:amiralimbekerov0110@gmail.com"><img src="https://img.shields.io/badge/Email-Amir-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/amir-alimbekerov/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Amir-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/asura.aka/" target="_blank"><img src="https://img.shields.io/badge/instagram-asura.aka-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-# Gojek/GOPAY Android
+
 Curretnly Working on the project for the android project. start working on some new feature
+
+
 # GoodLook Application
 
 Diary for daily with notification(reminder) and deadline. Reminder is a card in a special sheet (category). When you add a reminder, you have the option to select a repeat reminder (AlarmReceiver), and select a special category for the card.
 
-<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px' style='color: black;'/></a>
+<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
 
 ### Technolgies : Android SDK , Kotlin, Xml, Room, MVVM, Android Jetpack
