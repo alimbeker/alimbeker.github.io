@@ -40,9 +40,7 @@ Application is for the students which contain questions in a quiz wrapped in a p
 <img src="images/stry app/Artboard – 1@2x.png" width="700"  title="Stry Application">
 </p>
 
-<p align="center">
-<img src="images/stry app/stry video.gif" width="190" title="Word Guess">
-</p>
+
 
 
 
