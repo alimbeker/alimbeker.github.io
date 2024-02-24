@@ -16,46 +16,41 @@ Diary for daily with notification(reminder) and deadline. Reminder is a card in 
 
 ### Technologies : Android SDK , Kotlin, Xml, Room, MVVM, Android Jetpack
 
-# Weather Application
+# Weather Application (Educational Application)
 
 It is a weather app that uses Retrofit with rest api, MVVM architecture, android jetpack, dagger hilt, etc. It takes a city name and by that name it gives the weather data of the city.
 
-<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
+<a href='https://github.com/Wonka-code101101/WeatherApp'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
 ### Technologies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Room, Android SDK , Xml
 
 
 
-# Stry Application (Educational Application)
-<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
+# MotionLayout (Educational Application)
+<a href='https://github.com/alimbeker/MotionLayout'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
 
-This application is still in development and I was on the contract-based android application where I make quizzes, statistics, overlay windows, and fix some errors in different sections of the app.
-
-Application is for the students which contain questions in a quiz wrapped in a package, also the teacher can create packages with number of questions in its answer and those packages will get converted in the quiz and these packages will be available in the packaging market in the application. There are other useful features in application like a floating window where the user can enable and give answers while he is outside of the application and other features like sharing packages and give a review to packages.
-
-### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM 
-
-<p align="center">
-<img src="images/stry app/Artboard – 1@2x.png" width="700"  title="Stry Application">
-</p>
+Learn MotionLayout and SharedElementTransition
+### Technolgies : Android SDK , Kotlin, Xml 
 
 
 
+# RealtimeFirebase (Educational Application)
+<a href='https://github.com/alimbeker/FirebaseRealtimeDatabase'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
 
-## Some Cool Projects :smile:
+Learn MotionLayout and SharedElementTransition
+### Technolgies : Android SDK , Kotlin, Xml , Firebase
+## Some Cool Projects :
 
-### Computer controller
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://drive.google.com/file/d/10clWduncP0a4BY9wJDU3ncJ9-e4sbteW/view) 
-
-Application is used to control keyboard and mouse in the computer using an android phone, you need to install server application in computer and apk in android, in order to work the application your both devices should be in the same network. You can even play games using a gyro sensor in android.
-
-### Computer vision controller
+### CrimeGuardian
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://drive.google.com/open?id=1SbcrwfzXhUZwYGfqmsB1J5maa8Ju0ww9) 
 
-You can use a single paper to control the game, you just need to show paper in front of camera and move to different directions in order to control the game.
-This application is using the OpenCV for performing computer vision algorithms it is used to capture the color and also calculate a distance where the paper is moved and then converting coordinate into a game coordinate and press the buttons for controlling the game.
+Real-time Location Tracking: The project must have the capability to track the user's location in real time using GPS or other location services.
+Crime Data Integration: It should integrate with reliable crime databases or law enforcement sources to access up-to-date information on criminal activities in specific areas.
+Notification System: A robust notification system is crucial to promptly alert users when they are in an area with a high level of criminal activity.
+User Interface (UI): Design an intuitive and user-friendly interface for easy navigation and accessibility.
+
 
 
 
