@@ -20,7 +20,7 @@ Diary for daily with notification(reminder) and deadline. Reminder is a card in 
 
 It is a weather app that uses Retrofit with rest api, MVVM architecture, android jetpack, dagger hilt, etc. It takes a city name and by that name it gives the weather data of the city.
 
-<a href='https://github.com/Wonka-code101101/WeatherApp'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
+<a href='https://github.com/alimbeker/WeatherApplication'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
 ### Technologies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Room, Android SDK , Xml
 
