@@ -7,13 +7,6 @@
 
 Curretnly Working on the project for the android project. start working on some new feature
 
-
-# GoodLook Application
-
-Diary for daily with notification(reminder) and deadline. Reminder is a card in a special sheet (category). When you add a reminder, you have the option to select a repeat reminder (AlarmReceiver), and select a special category for the card.
-
-<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
-
 ### Technologies : Android SDK , Kotlin, Xml, Room, MVVM, Android Jetpack
 
 # Weather Application (Educational Application)
@@ -24,6 +17,11 @@ It is a weather app that uses Retrofit with rest api, MVVM architecture, android
 
 ### Technologies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Room, Android SDK , Xml
 
+# GoodLook Application
+
+Diary for daily with notification(reminder) and deadline. Reminder is a card in a special sheet (category). When you add a reminder, you have the option to select a repeat reminder (AlarmReceiver), and select a special category for the card.
+
+<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
 
 # MotionLayout (Educational Application)
