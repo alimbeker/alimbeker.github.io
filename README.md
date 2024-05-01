@@ -23,7 +23,6 @@ User Interface (UI): Design an intuitive and user-friendly interface for easy na
 
 It is a weather app that uses Retrofit with rest api, MVVM architecture, android jetpack, dagger hilt, etc. It takes a city name and by that name it gives the weather data of the city.
 
-Prees me
 <a href='https://github.com/alimbeker/WeatherApplication'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
 ### Technologies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Android SDK , Xml
