@@ -49,7 +49,7 @@ Learn MotionLayout and SharedElementTransition
 <a href='https://github.com/alimbeker/FirebaseRealtimeDatabase'><img alt='Get it on GitHub' src='https://art.pixilart.com/418af1cd3ec7b33.png' width='200px' height='200px'/></a>
 
 ### Technolpgies : Android SDK , Kotlin, Xml , Firebase
-## Some Cool Projects :
+
 
 
 
