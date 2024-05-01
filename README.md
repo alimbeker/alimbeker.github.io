@@ -7,6 +7,18 @@
 
 Curretnly Working on the project for the android project. start working on some new feature
 
+# CrimeGuardian
+
+Real-time Location Tracking: The project must have the capability to track the user's location in real time using GPS or other location services.
+Crime Data Integration: It should integrate with reliable crime databases or law enforcement sources to access up-to-date information on criminal activities in specific areas.
+Notification System: A robust notification system is crucial to promptly alert users when they are in an area with a high level of criminal activity.
+User Interface (UI): Design an intuitive and user-friendly interface for easy navigation and accessibility.
+
+<a href='https://github.com/alimbeker/CrimeGuardian'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
+
+### Technologies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Android SDK , Xml
+
+
 # Weather Application (Educational Application)
 
 It is a weather app that uses Retrofit with rest api, MVVM architecture, android jetpack, dagger hilt, etc. It takes a city name and by that name it gives the weather data of the city.
