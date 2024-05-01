@@ -16,7 +16,7 @@ User Interface (UI): Design an intuitive and user-friendly interface for easy na
 
 <a href='https://github.com/alimbeker/CrimeGuardian'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
-### Technologies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Android SDK , Xml
+### Technologies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Android SDK ,Room, Coroutines+Flow, Xml, Cluster
 
 
 # Weather Application (Educational Application)
