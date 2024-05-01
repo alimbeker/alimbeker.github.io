@@ -24,7 +24,7 @@ User Interface (UI): Design an intuitive and user-friendly interface for easy na
 
 It is a weather app that uses Retrofit with rest api, MVVM architecture, android jetpack, dagger hilt, etc. It takes a city name and by that name it gives the weather data of the city.
 
-<a href='https://github.com/alimbeker/WeatherApplication'><img alt='Get it on GitHub' src='https://art.pixilart.com/418af1cd3ec7b33.png' height='100px'/></a>
+<a href='https://github.com/alimbeker/WeatherApplication'><img alt='Get it on GitHub' src='https://art.pixilart.com/418af1cd3ec7b33.png' width='200px' height='200px'/></a>
 
 ### Technologies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Android SDK , Xml
 
@@ -33,12 +33,12 @@ It is a weather app that uses Retrofit with rest api, MVVM architecture, android
 
 Diary for daily with notification(reminder) and deadline. Reminder is a card in a special sheet (category). When you add a reminder, you have the option to select a repeat reminder (AlarmReceiver), and select a special category for the card.
 
-<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://art.pixilart.com/418af1cd3ec7b33.png' height='100px'/></a>
+<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://art.pixilart.com/418af1cd3ec7b33.png' width='200px' height='200px'/></a>
 
 ### Technologies : Android SDK , Kotlin, Xml, Room, MVVM, Android Jetpack
 
 # MotionLayout (Educational Application)
-<a href='https://github.com/alimbeker/MotionLayout'><img alt='Get it on GitHub' src='https://art.pixilart.com/418af1cd3ec7b33.png' height='100px'/></a>
+<a href='https://github.com/alimbeker/MotionLayout'><img alt='Get it on GitHub' src='https://art.pixilart.com/418af1cd3ec7b33.png' width='200px' height='200px'/></a>
 
 
 Learn MotionLayout and SharedElementTransition
@@ -47,7 +47,7 @@ Learn MotionLayout and SharedElementTransition
 
 
 # RealtimeFirebase (Educational Application)
-<a href='https://github.com/alimbeker/FirebaseRealtimeDatabase'><img alt='Get it on GitHub' src='https://art.pixilart.com/418af1cd3ec7b33.png' height='100px'/></a>
+<a href='https://github.com/alimbeker/FirebaseRealtimeDatabase'><img alt='Get it on GitHub' src='https://art.pixilart.com/418af1cd3ec7b33.png' width='200px' height='200px'/></a>
 
 
 Learn MotionLayout and SharedElementTransition
