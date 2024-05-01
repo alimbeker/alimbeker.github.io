@@ -38,29 +38,19 @@ Diary for daily with notification(reminder) and deadline. Reminder is a card in 
 ### Technologies : Android SDK , Kotlin, Xml, Room, MVVM, Android Jetpack
 
 # MotionLayout (Educational Application)
+Learn MotionLayout and SharedElementTransition
+
 <a href='https://github.com/alimbeker/MotionLayout'><img alt='Get it on GitHub' src='https://art.pixilart.com/418af1cd3ec7b33.png' width='200px' height='200px'/></a>
 
 
-Learn MotionLayout and SharedElementTransition
 ### Technolgies : Android SDK , Kotlin, Xml 
-
-
 
 # RealtimeFirebase (Educational Application)
 <a href='https://github.com/alimbeker/FirebaseRealtimeDatabase'><img alt='Get it on GitHub' src='https://art.pixilart.com/418af1cd3ec7b33.png' width='200px' height='200px'/></a>
 
-
-Learn MotionLayout and SharedElementTransition
-### Technolgies : Android SDK , Kotlin, Xml , Firebase
+### Technolpgies : Android SDK , Kotlin, Xml , Firebase
 ## Some Cool Projects :
 
-### CrimeGuardian
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://drive.google.com/open?id=1SbcrwfzXhUZwYGfqmsB1J5maa8Ju0ww9) 
-
-Real-time Location Tracking: The project must have the capability to track the user's location in real time using GPS or other location services.
-Crime Data Integration: It should integrate with reliable crime databases or law enforcement sources to access up-to-date information on criminal activities in specific areas.
-Notification System: A robust notification system is crucial to promptly alert users when they are in an area with a high level of criminal activity.
-User Interface (UI): Design an intuitive and user-friendly interface for easy navigation and accessibility.
 
 
 
