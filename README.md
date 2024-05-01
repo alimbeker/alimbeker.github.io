@@ -14,7 +14,7 @@ Crime Data Integration: It should integrate with reliable crime databases or law
 Notification System: A robust notification system is crucial to promptly alert users when they are in an area with a high level of criminal activity.
 User Interface (UI): Design an intuitive and user-friendly interface for easy navigation and accessibility.
 
-<a href='https://github.com/alimbeker/CrimeGuardian'><img alt='Get it on GitHub' height='100px'/></a>
+<a href='https://github.com/alimbeker/CrimeGuardian'><img alt='Get it on GitHub' src='https://art.pixilart.com/418af1cd3ec7b33.png' height='100px'/></a>
 
 ### Technologies : MVVM, Dagger Hilt, Retrofit, Android Jetpack, Android SDK ,Room, Coroutines+Flow, Xml, Cluster
 
